@@ -10,4 +10,5 @@ def magic(x):
     else:
         nums = False
     return nums
-print(magic(1))
+X = random.randint(1, 9999)
+print(magic(x))
